@@ -1,0 +1,7 @@
+C:\Users\Philip\Desktop\CarSimulator\bin\Debug\CarSimulator.exe.config
+C:\Users\Philip\Desktop\CarSimulator\bin\Debug\CarSimulator.exe
+C:\Users\Philip\Desktop\CarSimulator\bin\Debug\CarSimulator.pdb
+C:\Users\Philip\Desktop\CarSimulator\obj\Debug\CarSimulator.csprojAssemblyReference.cache
+C:\Users\Philip\Desktop\CarSimulator\obj\Debug\CarSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Philip\Desktop\CarSimulator\obj\Debug\CarSimulator.exe
+C:\Users\Philip\Desktop\CarSimulator\obj\Debug\CarSimulator.pdb
